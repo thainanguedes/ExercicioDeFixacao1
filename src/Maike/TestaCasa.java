@@ -5,7 +5,7 @@ public class TestaCasa
     {
         Casa c1 = new Casa();
         
-        c1.cor = " Rosa ";
+        c1.cor = " Branco ";
         
         Porta p1 = new Porta();
         p1.fecha();

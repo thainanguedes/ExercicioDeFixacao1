@@ -10,8 +10,8 @@ public class TestaPorta {
         p1.dimensaoY = 3;
         p1.dimensaoZ = 4;
         
-        p1.pinta("Cinza");
-        p1.pinta("Amarelo");
+        p1.pinta("Azul");
+        p1.pinta("Rosa");
         
         System.out.println("Cor da Porta: "+p1.cor);
         p1.abre();
